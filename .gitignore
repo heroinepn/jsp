@@ -1,0 +1,5 @@
+# Project exclude paths
+/Filter/target/
+/JDBC/target/
+/out/
+/target/
